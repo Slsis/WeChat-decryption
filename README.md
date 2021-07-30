@@ -25,6 +25,9 @@ PC版的weixin会自动加密用户接受到的所有图片信息,文件均以da
 然后输入你需要的扫描器的编号
 
 ```shell
+# 查找用户名
+start name.bat
+
 # 启动主启动器
 python WeChat_tool.py 
 
