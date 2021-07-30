@@ -1,7 +1,7 @@
 # WeChat-decryption
 微信公众号:天禧信安
 下载解密工具的hxd记得点个⭐⭐
-📫Email:admin@janekr.com
+📫 Email:admin@janekr.com
 ## :gear: 前言
 PC版的weixin会自动加密用户接受到的所有图片信息,文件均以dat格式加密储存。
 默认的数据储存路径为 C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_xxx\\FileStorage\\Image\\date
