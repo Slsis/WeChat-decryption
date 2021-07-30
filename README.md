@@ -21,6 +21,8 @@ PC版的weixin会自动加密用户接受到的所有图片信息,文件均以da
 * :cloud: 支持 单/多 文件批量解密
 
 ## :hammer_and_wrench: 部署使用
+在环境变量配置没问题后，直接运行 main.py
+然后输入你需要的扫描器的编号
 
 ```shell
 # 启动主启动器
@@ -31,4 +33,11 @@ python WeChat_alone.py
 
 # 多文件解密
 python WeChat_automatic.py
+```
+## :alembic: 运行状态
+```shell
+正常运行
+![Screenshot](https://raw.githubusercontent.com/JaneCCP/WeChat-decryption/main/image/cg.png)
+解密集合
+![Screenshot](https://raw.githubusercontent.com/JaneCCP/WeChat-decryption/main/image/cg2.png)
 ```
