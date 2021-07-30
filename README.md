@@ -38,5 +38,6 @@ python WeChat_automatic.py
 
 正常运行
 ![Screenshot](https://raw.githubusercontent.com/JaneCCP/WeChat-decryption/main/image/cg.png)
+
 解密集合
 ![Screenshot](https://raw.githubusercontent.com/JaneCCP/WeChat-decryption/main/image/cg2.png)
