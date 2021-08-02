@@ -19,6 +19,7 @@ PC版的weixin会自动加密用户接受到的所有图片信息,文件均以da
 
 ## :sparkles: 特性
 * :cloud: 支持 单/多 文件批量解密
+* :cloud: 支持exe直接运行解密
 
 ## :hammer_and_wrench: 部署使用
 在环境变量配置没问题后，直接运行 main.py
